@@ -4,16 +4,16 @@
     {
         static void Main(string[] args)
         {
-            //baitap01();
-            //baitap02();
-            //baitap03();
-            //baitap04();
-            //baitap05();
-            //baitap06();
+            baitap01();
+            baitap02();
+            baitap03();
+            baitap04();
+            baitap05();
+            baitap06();
             baitap07();
-            //baitap08();
-            //baitap09();
-            //baitap10();
+            baitap08();
+            baitap09();
+            baitap10();
         }
 
         static void baitap01() //check whether a given number is even or odd
